@@ -139,6 +139,10 @@ img {
         width: 1140px;
         margin: 0px;
     }
+
+    .container {
+        padding: 40px
+    }
 }
 
 /* MOBILE
